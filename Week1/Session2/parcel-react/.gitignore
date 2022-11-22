@@ -1,0 +1,10 @@
+.parcel-cache
+node_modules
+dist
+
+.vscode
+.env
+
+npm-debug.log*
+
+
