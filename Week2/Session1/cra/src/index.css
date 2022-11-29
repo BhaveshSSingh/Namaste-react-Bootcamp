@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: aquamarine;
+  padding: 2rem;
+}
+.search {
+  border-radius: 10px;
+  min-width: 80%;
+
+  height: 30px;
+  border: transparent;
+  margin-top: 2px;
+  margin-left: 40px;
+  /* margin: 2rem; */
+}
+input:focus {
+  border-color: white;
+}
